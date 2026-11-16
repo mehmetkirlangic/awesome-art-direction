@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Caixa unveils its first logo refresh in nearly 30 years](https://www.creativebloq.com/news/this-banks-vibrant-new-logo-design-ticks-all-the-boxes) - Brazilian agency Tátil brightens the state bank's colours with a lowercase wordmark and a refined X.
+- [Figma adds AI object selection and editable vector illustrations](https://designcompass.org/en/2026/11/10/figma-ai-object-selection-vector-illustration-editing/) - One-click object selection for images, plus agent-made icons that split into editable layers.
+- [Commercial Type releases Schenk](https://typecache.com/news/7167/) - A new type family from Commercial Type, logged on the Typecache foundry release tracker.
 - [Figma Config 2026 recap](https://dev.classmethod.jp/en/articles/figma-config-2026-recap/) - Figma Motion, generative plugins, shaders, Weave tools and the Figma agent, with Code Layers coming soon.
 - [Figma Motion launch](https://alternativeto.net/news/2026/6/figma-launches-a-new-integrated-motion-design-tool-alongside-code-layers-and-new-ai-features/) - Timeline animation built into Figma.
 - [Framer 3.0](https://alternativeto.net/news/2026/6/framer-3-0-launches-ai-agents-branching-external-agents-and-a-redesigned-community/) - AI agents, branching and a redesigned community.
