@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Singapore refreshes its national brand around a glowing red sphere](https://designcompass.org/en/2026/11/17/singapore-brand-identity-refresh/) - The "little red dot" grows into a luminous sphere, carried by red gradients and light-and-shadow motion across campaigns.
+- [LottieFiles launches Lottie AI for text-to-animation](https://designcompass.org/en/2026/11/16/lottie-ai-editable-vector-animation/) - Describe a movement in words and get an editable Lottie vector animation for loaders, icons or onboarding.
+- [Google redesigns the Phone by Google app icon](https://designcompass.org/en/2026/11/17/google-phone-gradient-icon-redesign/) - A bigger handset glyph and a blue gradient lead a refresh of Phone, Messages and Contacts icons.
 - [Caixa unveils its first logo refresh in nearly 30 years](https://www.creativebloq.com/news/this-banks-vibrant-new-logo-design-ticks-all-the-boxes) - Brazilian agency Tátil brightens the state bank's colours with a lowercase wordmark and a refined X.
 - [Figma adds AI object selection and editable vector illustrations](https://designcompass.org/en/2026/11/10/figma-ai-object-selection-vector-illustration-editing/) - One-click object selection for images, plus agent-made icons that split into editable layers.
 - [Commercial Type releases Schenk](https://typecache.com/news/7167/) - A new type family from Commercial Type, logged on the Typecache foundry release tracker.
