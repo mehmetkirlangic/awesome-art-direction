@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Crystal Ski rebrands with Landor around a snowflake-shaped "y"](https://designcompass.org/en/2026/11/18/crystal-ski-landor-rebrand/) - The ski travel brand's new identity turns a split letter in its wordmark into a snowflake lens.
+- [Proof of Words releases PoW Dumbria](https://designcompass.org/en/2026/11/17/dumbria-wood-type/) - A display typeface by Reymund Schröder reviving the concave stroke ends of 19th-century wood type.
+- [Unslop cleans up color, spacing and fonts on AI-generated screens](https://designcompass.org/en/2026/11/17/unslop-ai-ui-redesign/) - A Claude Code skill by Damir Sokolovsky that audits and fixes generic-looking AI web UIs.
 - [Singapore refreshes its national brand around a glowing red sphere](https://designcompass.org/en/2026/11/17/singapore-brand-identity-refresh/) - The "little red dot" grows into a luminous sphere, carried by red gradients and light-and-shadow motion across campaigns.
 - [LottieFiles launches Lottie AI for text-to-animation](https://designcompass.org/en/2026/11/16/lottie-ai-editable-vector-animation/) - Describe a movement in words and get an editable Lottie vector animation for loaders, icons or onboarding.
 - [Google redesigns the Phone by Google app icon](https://designcompass.org/en/2026/11/17/google-phone-gradient-icon-redesign/) - A bigger handset glyph and a blue gradient lead a refresh of Phone, Messages and Contacts icons.
