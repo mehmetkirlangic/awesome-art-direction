@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Benelli unveils a new brand identity at EICMA 2026](https://www.benelli.com/int-en/news/benelli-unveils-its-new-brand-identity-at-eicma-2026) - The motorcycle maker redraws its emblem, adds a standalone lion mark and a green, black and white palette.
+- [Figma opens a 3D Transforms beta with CSS handoff](https://ux-news.com/figma-3d-transforms-beta-css/) - A new beta brings 3D layer transforms to the Figma canvas, with CSS output for developer handoff.
+- [Production Type releases Vendôme Nouveau](https://typecache.com/news/7168/) - The Paris foundry revisits the classic Vendôme serif with a fresh contemporary family.
 - [Crystal Ski rebrands with Landor around a snowflake-shaped "y"](https://designcompass.org/en/2026/11/18/crystal-ski-landor-rebrand/) - The ski travel brand's new identity turns a split letter in its wordmark into a snowflake lens.
 - [Proof of Words releases PoW Dumbria](https://designcompass.org/en/2026/11/17/dumbria-wood-type/) - A display typeface by Reymund Schröder reviving the concave stroke ends of 19th-century wood type.
 - [Unslop cleans up color, spacing and fonts on AI-generated screens](https://designcompass.org/en/2026/11/17/unslop-ai-ui-redesign/) - A Claude Code skill by Damir Sokolovsky that audits and fixes generic-looking AI web UIs.
