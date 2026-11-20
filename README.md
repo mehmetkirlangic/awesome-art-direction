@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Maker's Mark rebrands with Turner Duckworth around its red wax seal](https://designcompass.org/en/2026/11/20/makers-mark-red-wax-brand-identity/) - The bourbon's dripping wax becomes a graphic system, paired with a custom typeface drawn from the co-founder's handwriting.
+- [Figma AI now compares image models side by side](https://designcompass.org/en/2026/11/20/figma-ai-image-model-comparison/) - Generate several drafts from one prompt or test up to three models at once on the canvas.
+- [Google Maps adds numbered pins for AI-planned itineraries](https://designcompass.org/en/2026/11/19/google-maps-numbered-itinerary-pins/) - Ask Maps builds day-by-day trips and shows the visit order with numbered map pins.
 - [Benelli unveils a new brand identity at EICMA 2026](https://www.benelli.com/int-en/news/benelli-unveils-its-new-brand-identity-at-eicma-2026) - The motorcycle maker redraws its emblem, adds a standalone lion mark and a green, black and white palette.
 - [Figma opens a 3D Transforms beta with CSS handoff](https://ux-news.com/figma-3d-transforms-beta-css/) - A new beta brings 3D layer transforms to the Figma canvas, with CSS output for developer handoff.
 - [Production Type releases Vendôme Nouveau](https://typecache.com/news/7168/) - The Paris foundry revisits the classic Vendôme serif with a fresh contemporary family.
