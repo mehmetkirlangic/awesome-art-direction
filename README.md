@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [The New York Times draws its 175th anniversary numerals from the masthead](https://designcompass.org/en/2026/11/18/new-york-times-175-anniversary-numerals/) - XYZ Type built the anniversary digits from strokes borrowed from the paper's blackletter logo.
+- [Fuser lets you build custom editing tools from a sentence](https://designcompass.org/en/2026/11/18/fuser-tool-node/) - Describe a tool in plain words and get canvas controls you can reuse in later projects.
+- [Apple names 45 finalists for the 2026 App Store Awards](https://designcompass.org/en/2026/11/19/apple-app-store-awards-2026-finalists/) - A closer look at standout finalist interfaces, from camera controls to Pencil-drawn mockups.
 - [Maker's Mark rebrands with Turner Duckworth around its red wax seal](https://designcompass.org/en/2026/11/20/makers-mark-red-wax-brand-identity/) - The bourbon's dripping wax becomes a graphic system, paired with a custom typeface drawn from the co-founder's handwriting.
 - [Figma AI now compares image models side by side](https://designcompass.org/en/2026/11/20/figma-ai-image-model-comparison/) - Generate several drafts from one prompt or test up to three models at once on the canvas.
 - [Google Maps adds numbered pins for AI-planned itineraries](https://designcompass.org/en/2026/11/19/google-maps-numbered-itinerary-pins/) - Ask Maps builds day-by-day trips and shows the visit order with numbered map pins.
