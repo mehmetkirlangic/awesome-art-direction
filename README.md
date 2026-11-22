@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Pennsylvania Horticultural Society rebrands with a logo that grows like a plant](https://www.creativebloq.com/news/this-beautiful-logo-design-was-created-to-grow-like-nature) - Smith & Diction built a living, animated mark for the society's upcoming 200th anniversary.
+- [Ava Studios turns viral launch videos into templates for your product](https://designcompass.org/en/2026/11/19/ava-studio-launch-videos/) - An agent plugin that copies the pacing and camera moves of a reference launch clip onto your own screens.
+- [G-Type releases Victory](https://g-type.com/fonts/victory) - Nick Cooke's classical serif, drawn from HMS Victory's stern lettering, with high-contrast display cuts and a variable version.
 - [The New York Times draws its 175th anniversary numerals from the masthead](https://designcompass.org/en/2026/11/18/new-york-times-175-anniversary-numerals/) - XYZ Type built the anniversary digits from strokes borrowed from the paper's blackletter logo.
 - [Fuser lets you build custom editing tools from a sentence](https://designcompass.org/en/2026/11/18/fuser-tool-node/) - Describe a tool in plain words and get canvas controls you can reuse in later projects.
 - [Apple names 45 finalists for the 2026 App Store Awards](https://designcompass.org/en/2026/11/19/apple-app-store-awards-2026-finalists/) - A closer look at standout finalist interfaces, from camera controls to Pencil-drawn mockups.
