@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Docker redraws its Moby whale logo without the containers](https://designcompass.org/en/2026/11/23/docker-moby-whale-logo-redesign/) - Working with Motto, Docker drops the stacked boxes and gives the whale a rounder, simpler silhouette.
+- [Claude mobile app moves Chat, Projects, Code and Artifacts into a bottom tab bar](https://designcompass.org/en/2026/11/23/claude-mobile-app-tab-bar-redesign/) - Anthropic's redesign puts each workspace one tap away at the bottom of the screen.
+- [Contrast Foundry releases CoFo Friend](https://contrastfoundry.com/typeface/cofo-friend) - A neo-grotesque family built with interface and product typography in mind.
 - [Pennsylvania Horticultural Society rebrands with a logo that grows like a plant](https://www.creativebloq.com/news/this-beautiful-logo-design-was-created-to-grow-like-nature) - Smith & Diction built a living, animated mark for the society's upcoming 200th anniversary.
 - [Ava Studios turns viral launch videos into templates for your product](https://designcompass.org/en/2026/11/19/ava-studio-launch-videos/) - An agent plugin that copies the pacing and camera moves of a reference launch clip onto your own screens.
 - [G-Type releases Victory](https://g-type.com/fonts/victory) - Nick Cooke's classical serif, drawn from HMS Victory's stern lettering, with high-contrast display cuts and a variable version.
