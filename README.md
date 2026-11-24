@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Nubank rebrands with Koto and a custom typeface, Nu Sans](https://designcompass.org/en/2026/11/24/nubank-rebrand-nu-sans/) - The bank's new type family grows from the looping curve where the n and u of its logo meet.
+- [Google Search swaps its home page buttons for AI shortcuts](https://designcompass.org/en/2026/11/24/google-search-homepage-ai-redesign/) - Image creation, file questions and brainstorming now sit under the search bar on desktop.
+- [Type Forward releases Salinger](https://typeforward.com/typefaces/salinger/) - A classical text serif with calligraphic touches, a flowing true italic and a variable version.
 - [Docker redraws its Moby whale logo without the containers](https://designcompass.org/en/2026/11/23/docker-moby-whale-logo-redesign/) - Working with Motto, Docker drops the stacked boxes and gives the whale a rounder, simpler silhouette.
 - [Claude mobile app moves Chat, Projects, Code and Artifacts into a bottom tab bar](https://designcompass.org/en/2026/11/23/claude-mobile-app-tab-bar-redesign/) - Anthropic's redesign puts each workspace one tap away at the bottom of the screen.
 - [Contrast Foundry releases CoFo Friend](https://contrastfoundry.com/typeface/cofo-friend) - A neo-grotesque family built with interface and product typography in mind.
