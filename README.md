@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Poetry Foundation and Pentagram give Poetry magazine a moving Pegasus identity](https://designcompass.org/en/2026/11/25/poetry-foundation-pegasus-motion-identity/) - Animated logo where the winged horse moves between lines of verse, rolled out from the October issue.
+- [Debolt ASCII Art Generator turns photos and videos into text graphics](https://designcompass.org/en/2026/11/25/devault-ascii-art-generator-image-video-effects/) - Free browser tool that rebuilds images and clips from characters while keeping their shading.
+- [Google Translate gets its first new icon in 11 years](https://designcompass.org/en/2026/11/25/google-translate-gradient-icon-redesign/) - The folded-card mark gives way to a flatter gradient icon, now showing on the web.
 - [Nubank rebrands with Koto and a custom typeface, Nu Sans](https://designcompass.org/en/2026/11/24/nubank-rebrand-nu-sans/) - The bank's new type family grows from the looping curve where the n and u of its logo meet.
 - [Google Search swaps its home page buttons for AI shortcuts](https://designcompass.org/en/2026/11/24/google-search-homepage-ai-redesign/) - Image creation, file questions and brainstorming now sit under the search bar on desktop.
 - [Type Forward releases Salinger](https://typeforward.com/typefaces/salinger/) - A classical text serif with calligraphic touches, a flowing true italic and a variable version.
