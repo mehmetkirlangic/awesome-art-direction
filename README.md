@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Pathos gives its swan logo a punk makeover](https://designcompass.org/en/2026/11/26/pathos-punk-swan-brand-identity/) - Hamburg agency's new identity shows a spiky singing swan rendered across metal, glass and other textures.
+- [Allo, a free variable UI font](https://designcompass.org/en/2026/11/26/allo-free-variable-ui-font-josh-puckett/) - Open-source interface typeface with adjustable weight, roundness and optical size, plus clear alternate glyphs.
+- [YouTube tests like, comment and save buttons on the home feed](https://designcompass.org/en/2026/11/26/youtube-home-feed-like-comment-save-buttons-test/) - Reaction buttons appear under some home feed videos, raising questions about density and VoiceOver use.
 - [Poetry Foundation and Pentagram give Poetry magazine a moving Pegasus identity](https://designcompass.org/en/2026/11/25/poetry-foundation-pegasus-motion-identity/) - Animated logo where the winged horse moves between lines of verse, rolled out from the October issue.
 - [Debolt ASCII Art Generator turns photos and videos into text graphics](https://designcompass.org/en/2026/11/25/devault-ascii-art-generator-image-video-effects/) - Free browser tool that rebuilds images and clips from characters while keeping their shading.
 - [Google Translate gets its first new icon in 11 years](https://designcompass.org/en/2026/11/25/google-translate-gradient-icon-redesign/) - The folded-card mark gives way to a flatter gradient icon, now showing on the web.
