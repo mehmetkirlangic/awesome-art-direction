@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Figma expands its agents into FigJam and Slides](https://designcompass.org/en/2026/11/27/figma-agent-figjam-slides/) - Figma's AI agents can now tidy up whiteboards and draft presentation material directly in FigJam and Slides.
+- [Foundry Lineu, a 7x6 grid typeface](https://designcompass.org/en/2026/11/27/foundry-lineu-grid-typeface/) - A modular display font built on a tight dot grid, inspired by electronic traffic signs.
+- [Safari 27.3 beta brings adaptive dark mode to vertical tabs and sites](https://designcompass.org/en/2026/11/27/safari-vertical-tabs-adaptive-dark-mode/) - Apple's browser beta adapts sidebar tabs and web pages to dark appearance automatically.
 - [Pathos gives its swan logo a punk makeover](https://designcompass.org/en/2026/11/26/pathos-punk-swan-brand-identity/) - Hamburg agency's new identity shows a spiky singing swan rendered across metal, glass and other textures.
 - [Allo, a free variable UI font](https://designcompass.org/en/2026/11/26/allo-free-variable-ui-font-josh-puckett/) - Open-source interface typeface with adjustable weight, roundness and optical size, plus clear alternate glyphs.
 - [YouTube tests like, comment and save buttons on the home feed](https://designcompass.org/en/2026/11/26/youtube-home-feed-like-comment-save-buttons-test/) - Reaction buttons appear under some home feed videos, raising questions about density and VoiceOver use.
