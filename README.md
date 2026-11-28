@@ -19,6 +19,9 @@ Curated by [Mehmet Kırlangıç](https://mehmetkirlangic.co), Art Director & Vis
 ## Latest Updates
 
 ### November 2026
+- [Naver Membership drops the "Plus" and unifies its logos in green](https://designcompass.org/en/2026/11/24/naver-membership-logo-redesign/) - The Korean platform simplifies its membership naming and brings several programs under one green mark.
+- [CreateX, a grid-based logo drawing tool](https://designcompass.org/en/2026/11/27/createx-grid-logo-editor/) - A browser tool by LogoFX for building marks by filling cells on square, triangle or woven grids.
+- [Samsung One UI 9.5 moves live notifications around the front camera](https://designcompass.org/en/2026/11/26/samsung-one-ui-9-5-now-bar-live-notifications-redesign/) - Development builds relocate real-time activity alerts to the camera cutout and switch to horizontal swipes.
 - [Figma expands its agents into FigJam and Slides](https://designcompass.org/en/2026/11/27/figma-agent-figjam-slides/) - Figma's AI agents can now tidy up whiteboards and draft presentation material directly in FigJam and Slides.
 - [Foundry Lineu, a 7x6 grid typeface](https://designcompass.org/en/2026/11/27/foundry-lineu-grid-typeface/) - A modular display font built on a tight dot grid, inspired by electronic traffic signs.
 - [Safari 27.3 beta brings adaptive dark mode to vertical tabs and sites](https://designcompass.org/en/2026/11/27/safari-vertical-tabs-adaptive-dark-mode/) - Apple's browser beta adapts sidebar tabs and web pages to dark appearance automatically.
